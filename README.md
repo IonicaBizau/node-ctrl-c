@@ -1,5 +1,5 @@
 # ctrl-c
-Ignore or not the Ctrl + C press in a NodeJS process.
+Ignore or not the CTRL + C keypress in a NodeJS process.
 
 ## Installation
 
