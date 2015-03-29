@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-ctrl-c/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-ctrl-c"
+  "homepage": "https://github.com/IonicaBizau/node-ctrl-c",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {}
 }
