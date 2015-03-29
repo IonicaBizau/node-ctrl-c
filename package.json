@@ -1,0 +1,26 @@
+{
+  "name": "ctrl-c",
+  "version": "1.0.0",
+  "description": "Ignore or not the Ctrl + C press in a NodeJS process.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/node-ctrl-c.git"
+  },
+  "keywords": [
+    "ctrl",
+    "node"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-ctrl-c/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-ctrl-c"
+}
