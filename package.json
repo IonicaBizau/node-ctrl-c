@@ -3,11 +3,8 @@
   "version": "1.1.0",
   "description": "Ignore or not the CTRL + C keypress in a NodeJS process.",
   "main": "lib/index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "node test"
+    "test": "node example"
   },
   "repository": {
     "type": "git",

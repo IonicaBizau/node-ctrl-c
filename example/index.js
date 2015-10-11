@@ -1,6 +1,7 @@
 // Dependencies
 var CtrlC = require("../lib");
 
+// Output
 console.log("CTRL + C is disabled");
 
 // Set up the raw mode
