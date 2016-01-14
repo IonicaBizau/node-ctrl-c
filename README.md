@@ -1,6 +1,6 @@
-# ctrl-c [![Support this project][donate-now]][paypal-donations]
+# ctrl-c [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/ctrl-c.svg)](https://www.npmjs.com/package/ctrl-c) [![Downloads](https://img.shields.io/npm/dt/ctrl-c.svg)](https://www.npmjs.com/package/ctrl-c) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Ignore or not the CTRL + C keypress in a NodeJS process.
+> Ignore or not the CTRL + C keypress in a NodeJS process.
 
 ## Installation
 
