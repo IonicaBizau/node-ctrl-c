@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Ignores or not the CTRL + C keypress.
 
 #### Params
+
 - **Boolean** `ign`: A boolean flag representing if the CTRL + C press should be ignored or not.
 
 ### `onPress()`
