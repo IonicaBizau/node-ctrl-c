@@ -1,6 +1,6 @@
 {
   "name": "ctrl-c",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "description": "Ignore or not the CTRL + C keypress in a NodeJS process.",
   "main": "lib/index.js",
   "scripts": {
@@ -37,6 +37,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
