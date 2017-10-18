@@ -1,6 +1,6 @@
 {
   "name": "ctrl-c",
-  "version": "2.2.9",
+  "version": "2.3.0",
   "description": "Allows you to ignore the CTRL + C keypress",
   "main": "lib/index.js",
   "scripts": {
